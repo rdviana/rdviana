@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 GitHub Stats
 <hr style="border:1px solid white"> </hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdviana&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdviana&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
