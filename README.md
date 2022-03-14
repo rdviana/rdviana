@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-GitHub Stats
+##🖥️ GitHub Stats
 <hr style="border:1px solid white"> </hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdviana&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
